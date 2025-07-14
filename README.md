@@ -1,5 +1,5 @@
 - 👋 Hello! I'm Alan, a junior studying CS at Syracuse University
-- 🖥️ Incoming Undergraduate Researcher at the NSF funded REU at the iSchool at Syracuse University! (Reach out for application advice!)
+- 🖥️ Incoming Undergraduate Researcher at the NSF funded REU at the iSchool at Syracuse University!
 - 💡 I love teaching, and I'm actively trying to boost the skillset of students as the President of [Innovate Orange](https://github.com/innovateorange)!
 - 🌐 Feel free to reach out! You can reach me at [LinkedIn](https://www.linkedin.com/in/alan-tom/), or email.
 
